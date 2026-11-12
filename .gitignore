@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs y temp
+*.log
+npm-debug.log*
+.cache/
+tmp/
+temp/
+
+# Dependencias (si añades build en el futuro)
+node_modules/
+dist/
+build/
+
+# No ignorar el portfolio
+!assets/CurriculumDanielRueda.pdf
+!assets/foto.jpg
